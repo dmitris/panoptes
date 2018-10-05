@@ -21,7 +21,7 @@ Panoptes is a Python based network telemetry ecosystem that implements discovery
 
 ## Install
 
-Please follow the instructions [here](https://github.com/yahoo/panoptes/blob/master/docs/Installation.md) to download and install Panoptes
+Please follow the instructions [here](https://github.com/yahoo/panoptes/blob/master/docs/Installation.md) to download and install Panoptes.
 
 ## Contribute
 
